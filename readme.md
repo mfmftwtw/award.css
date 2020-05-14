@@ -17,7 +17,7 @@
 ## Documentation
 
 ```html
-<i class="award"></i>
+<div class="award"></div>
 ```
 
 |                   | Class Name         |
