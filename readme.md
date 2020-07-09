@@ -1,6 +1,6 @@
-# award.css
+# Award.css
 
-`award.css` is a film awards logotype.
+Award.css is a film awards logotype.
 
 ## Example
 
@@ -11,7 +11,7 @@
 1\. Include the file.
 
 ```html
-  <link rel="stylesheet" href="award.css">
+<link rel="stylesheet" href="award.css">
 ```
 
 ## Documentation
@@ -20,11 +20,21 @@
 <div class="award"></div>
 ```
 
-|                   | Class Name         |
-| ----------------- | ------------------ | 
-| award effect      | `award`            |
-| large             | `award-lg`         |
-| small             | `award-sm`         | 
+| Description  | Class Name |
+| ------------ | ---------- | 
+| Award Effect | `award`    |
+| Large        | `award-lg` |
+| Small        | `award-sm` | 
+
+## Browser Support
+
+Award.css was tested in the following browsers.
+
+- Chrome
+- Firefox
+- Safari
+- Internet Explorer 9+
+- Microsoft Edge
 
 ## License
 
